@@ -8,3 +8,5 @@
 - 2 общих
 - 73 мужских
 - 76 женских
+
+Страница в мастерской Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=2893495616
