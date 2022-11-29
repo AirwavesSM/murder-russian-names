@@ -9,4 +9,8 @@
 - 73 мужских
 - 76 женских
 
+# Видео-демонстрация аддона
+https://youtu.be/VK8W70sUsDk
+
+# Ссылки
 Страница в мастерской Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=2893495616
