@@ -10,7 +10,7 @@
 - 76 женских
 
 # Видео-демонстрация аддона
-https://youtu.be/VK8W70sUsDk
+[https://youtu.be/VK8W70sUsDk](https://www.youtube.com/watch?v=VK8W70sUsDk)
 
 # Ссылки
 Страница в мастерской Steam - https://steamcommunity.com/sharedfiles/filedetails/?id=2893495616
